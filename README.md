@@ -1,2 +1,2 @@
 # dna-tools
-DNA Tools that work on AncestryDNA/Prometheuse files.
+DNA Tools that work on AncestryDNA/Promethease files.
